@@ -5,6 +5,6 @@ This project is a simple conversational Q&A chatbot built with Python using Stre
 
 ## Features
 - Streamlit UI: A clean and simple UI for user interaction.
-LLM Integration: Connects with LLM models via the replicate library for generating responses.
-Langchain: Handles the messaging framework to manage conversations between the user and the AI.
-Session Management: Maintains a session state to track and manage the flow of conversation.
+- LLM Integration: Connects with LLM models via the replicate library for generating responses.
+- Langchain: Handles the messaging framework to manage conversations between the user and the AI.
+- Session Management: Maintains a session state to track and manage the flow of conversation.
